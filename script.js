@@ -2,5 +2,5 @@ let x = "Domanda 1.Un algoritmo è una sequenza di istruzioni che vengono fornit
 console.log(x)
 let y = "Domanda 2. Una variabile è come un contenitore di informazioni a cui possiamo attribuire delle caratteristiche e richiamare all'interno del nostro codice per far si che eseguano determinate funzioni"
 console.log(y)
-let z = "Domanda 3. Undefined e null non sono la stessa cosa. Per undefined si intende che il valore della variabile che abbiamo introdotto non è definito ed il risultato in console sarà undefined sia che la definiamo undefined che se non gli assegnamo un valore, con null invece siamo noi a dichiarare che quella variabile non ha valore"
+let z = "Domanda 3. Undefined e null non sono la stessa cosa. Per undefined si intende che il valore della variabile che abbiamo introdotto non è definito ed il risultato in console sarà undefined sia che la definiamo undefined che se non gli assegniamo un valore, con null invece siamo noi a dichiarare che quella variabile non ha valore"
 console.log(z)
